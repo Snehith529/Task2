@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">task2_Kongara</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Sign in using Google</string>
+    <string name="second_fragment_label">Upload the target file</string>
+    <string name="next">SignIn</string>
+    <string name="previous">Upload</string>
+
+    <string name="welcome_message">Welcome User, To Upload File into Drive, First Sign using Google
+    </string>
+
+    <string name="success_message">Successfully Signed into Google Account. Please Upload your Target File
+    </string>
+</resources>
